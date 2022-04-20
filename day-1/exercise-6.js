@@ -1,4 +1,4 @@
-export const my_array_alpha = (str) => {
+export const my_length_array = (str) => {
 	if (typeof str != 'string')
 	{
 		return [];
